@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869302bdb9230d6409f2102d3d9046fa, type: 3}
+  m_Name: Saw
+  m_EditorClassIdentifier: 
+  party: []
+  sprite: {fileID: 21300000, guid: c090e31b9d4efc8408fc871d26493ee2, type: 3}
+  pname: Saw
+  prefab: {fileID: 2140006254201161167, guid: 0a377440893704506b51948e6f69d64a, type: 3}
+  XP: 1
+  Gold: 1

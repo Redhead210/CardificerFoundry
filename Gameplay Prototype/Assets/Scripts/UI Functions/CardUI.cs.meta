@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6af48203071dfd542b8b5cfcb2f7bdda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tempart: {fileID: 21300000, guid: 0fe983e2609b5c24db84caf948a1e5c9, type: 3}
+  - bronzeborder: {fileID: 21300000, guid: a623e16570ccf464984f908a759c5012, type: 3}
+  - silverborder: {fileID: 21300000, guid: de33c882a482ea341bfb84ac30363efd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

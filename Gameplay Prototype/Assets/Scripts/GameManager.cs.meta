@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2214538fccd30b46814864a58a36dc5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isoGridManager: {instanceID: 0}
+  - combatManager: {instanceID: 0}
+  - ftPrefab: {fileID: 5562189369283849647, guid: 7462d638c4b879d4b819b9e5dabdccb8, type: 3}
+  - hpbPrefab: {fileID: 1100044790387649672, guid: 64b52baa8b858ed439fc93f1438f240e, type: 3}
+  - tgtPrefab: {fileID: 5616991335891229472, guid: 7b3756c7cd289d54d94ea46252041f7e, type: 3}
+  - atkPrefab: {fileID: 773373061503758811, guid: cbe9d8edfca00614aa9d44109641d763, type: 3}
+  - tempart: {fileID: 21300000, guid: 0fe983e2609b5c24db84caf948a1e5c9, type: 3}
+  - bronzeFrame: {fileID: 21300000, guid: a623e16570ccf464984f908a759c5012, type: 3}
+  - silverFrame: {fileID: 21300000, guid: de33c882a482ea341bfb84ac30363efd, type: 3}
+  - genericCharacter: {fileID: 21300000, guid: e6d1c7a5101d6444193bc0a10656ff63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

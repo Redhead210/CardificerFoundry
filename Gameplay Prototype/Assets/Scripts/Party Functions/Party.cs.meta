@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 756578811caf45e4f999612d7e883c75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - axeman: {fileID: 21300000, guid: cf730b6f003b79f47a5dfcd2b8e394e0, type: 3}
+  - stabman: {fileID: 21300000, guid: ccb03de85e9a0e34798ce845017a1a30, type: 3}
+  - gunman: {fileID: 21300000, guid: 3ff052fe3a4adae4b8a6928b9c20116b, type: 3}
+  - iceman: {fileID: 21300000, guid: 77c15c990ce0a4d488ee28e2fccd12d5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

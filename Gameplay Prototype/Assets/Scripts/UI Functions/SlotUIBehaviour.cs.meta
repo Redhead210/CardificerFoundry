@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3a41854764522d5499efa10c41416f38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - character: {instanceID: 0}
+  - silverSlot: {fileID: 21300000, guid: 51a0b0925d382dc4f8c2c58422c88697, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

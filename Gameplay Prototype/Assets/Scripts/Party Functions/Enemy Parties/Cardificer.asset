@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869302bdb9230d6409f2102d3d9046fa, type: 3}
+  m_Name: Cardificer
+  m_EditorClassIdentifier: 
+  party:
+  - {fileID: 11400000, guid: e5a631d521297d340afe9c80d9d8d535, type: 2}
+  - {fileID: 11400000, guid: 9fd666206e82b03428dc474a9848e7a5, type: 2}
+  - {fileID: 11400000, guid: 1a22423a20e4b0142bce7c57bf3e9776, type: 2}
+  sprite: {fileID: 21300000, guid: 5038af9083db88c47a2c980b131f9b45, type: 3}
+  pname: The Cardificer
+  prefab: {fileID: 879765744224626688, guid: dc643c4129d824bcdaa23b459845c3c5, type: 3}
+  XP: 0
+  Gold: 0

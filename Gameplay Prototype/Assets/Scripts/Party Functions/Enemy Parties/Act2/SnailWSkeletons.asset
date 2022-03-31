@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869302bdb9230d6409f2102d3d9046fa, type: 3}
+  m_Name: SnailWSkeletons
+  m_EditorClassIdentifier: 
+  party:
+  - {fileID: 11400000, guid: d0d6fe78689f2314dbaaa9fbded8c578, type: 2}
+  - {fileID: 11400000, guid: d3a974a4747aa63468440571e72fcd65, type: 2}
+  - {fileID: 11400000, guid: 6713f4f6cd6c6471c8310fcb28e2aca9, type: 2}
+  sprite: {fileID: 21300000, guid: 9299ac29b3908ab41a3ced8acf762b01, type: 3}
+  pname: Skeleton Gang
+  prefab: {fileID: 6430000821463860889, guid: 6b7cf8598384bae4a9b5746584a3d9e6, type: 3}
+  XP: 15
+  Gold: 175

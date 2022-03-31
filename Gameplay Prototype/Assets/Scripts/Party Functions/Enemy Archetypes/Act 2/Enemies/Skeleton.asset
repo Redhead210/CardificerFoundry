@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2795cdeb2a4580f4383f0dff518137b8, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  maxhp: 20
+  sprite: {fileID: 21300000, guid: 8450883675835e546a9a557527f4e1f5, type: 3}
+  cname: Skeleton
+  deck:
+  - HackNSlash
+  - SwordNShield
+  - RattlinBog
+  - SwordNShield
+  - SwordNShield
+  - SwordNShield
+  types: 0400000006000000
+  effects:
+  - regen 11

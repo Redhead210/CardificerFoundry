@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d2bd858cb790a944eb2c9ef21b28af43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deckswap: {fileID: 7986601337950380781, guid: 43537595e6882554b846e99fc558fae0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

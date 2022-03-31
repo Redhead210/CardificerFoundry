@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59403262aeccf124b8dfb4d0b1913219, type: 3}
+  m_Name: Witness
+  m_EditorClassIdentifier: 
+  hp: 22
+  maxhp: 22
+  hpmod: 6
+  sprite: {fileID: 0}
+  cName: The Witness
+  types: 0100000003000000
+  deck:
+  - WitnessesWatch
+  - Glacier
+  - AimedShot
+  - Defend
+  - Strike
+  - Defend
+  - Strike
+  - Defend
+  level: 1
+  hat: {fileID: 21300000, guid: 526548d05814b6b4c8676359154905e3, type: 3}
+  body: {fileID: 21300000, guid: b270e75dcf50b6b489d2a6fe9c118c86, type: 3}
+  xp: 0

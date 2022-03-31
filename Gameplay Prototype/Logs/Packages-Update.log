@@ -1,0 +1,9 @@
+
+=== Sat Oct  9 23:01:01 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.9.0 to 1.11.2
+  com.unity.ide.vscode from version 1.2.3 to 1.2.4

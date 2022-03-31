@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869302bdb9230d6409f2102d3d9046fa, type: 3}
+  m_Name: GoblinClan
+  m_EditorClassIdentifier: 
+  party:
+  - {fileID: 11400000, guid: fa11354024c876644adbb83607c92ee6, type: 2}
+  - {fileID: 11400000, guid: 8cb14e84ede4f5143a7a4a0862f66341, type: 2}
+  - {fileID: 11400000, guid: fa11354024c876644adbb83607c92ee6, type: 2}
+  sprite: {fileID: 21300000, guid: 3d2c405935d0b084e9267525137b3435, type: 3}
+  pname: Goblin Clan
+  prefab: {fileID: 6430000821463860889, guid: 6b7cf8598384bae4a9b5746584a3d9e6, type: 3}
+  XP: 15
+  Gold: 175

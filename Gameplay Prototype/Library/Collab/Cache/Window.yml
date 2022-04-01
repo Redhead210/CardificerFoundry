@@ -14,8 +14,938 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - .collabignore
+    - Assets/Assets.index
+    - Assets/Assets.index.meta
+    - Assets/Auto Letterbox.meta
+    - Assets/Auto Letterbox/Documentation.meta
+    - Assets/Auto Letterbox/Documentation/Help.html
+    - Assets/Auto Letterbox/Documentation/Help.html.meta
+    - Assets/Auto Letterbox/Documentation/Imgs.meta
+    - Assets/Auto Letterbox/Editor.meta
+    - Assets/Auto Letterbox/Editor/ForceCameraRatioEditor.cs.meta
+    - Assets/Auto Letterbox/ForceCameraRatio.cs.meta
+    - Assets/Auto Letterbox/Util.cs.meta
+    - Assets/CozetteVector.otf.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Combat.meta
+    - Assets/Prefabs/Combat/ActionUI.prefab
+    - Assets/Prefabs/Combat/ActionUI.prefab.meta
+    - Assets/Prefabs/Combat/AttackUI.prefab
+    - Assets/Prefabs/Combat/AttackUI.prefab.meta
+    - Assets/Prefabs/Combat/Card.prefab
+    - Assets/Prefabs/Combat/Card.prefab.meta
+    - Assets/Prefabs/Combat/Healthbar.prefab
+    - Assets/Prefabs/Combat/Healthbar.prefab.meta
+    - Assets/Prefabs/Combat/StatusEffectUI.prefab
+    - Assets/Prefabs/Combat/StatusEffectUI.prefab.meta
+    - Assets/Prefabs/Combat/battle platform s.prefab
+    - Assets/Prefabs/Combat/battle platform s.prefab.meta
+    - Assets/Prefabs/Combat/battle platform s2.prefab
+    - Assets/Prefabs/Combat/battle platform s2.prefab.meta
+    - Assets/Prefabs/Combat/battle platform s3.prefab
+    - Assets/Prefabs/Combat/battle platform s3.prefab.meta
+    - Assets/Prefabs/Combat/targetIcon.prefab
+    - Assets/Prefabs/Combat/targetIcon.prefab.meta
+    - Assets/Prefabs/CustomCharacter.prefab
+    - Assets/Prefabs/CustomCharacter.prefab.meta
+    - Assets/Prefabs/Grid.meta
+    - Assets/Prefabs/Grid/enemyGridPrfab.prefab
+    - Assets/Prefabs/Grid/enemyGridPrfab.prefab.meta
+    - Assets/Prefabs/Grid/enemyGridPrfabNoMovement.prefab
+    - Assets/Prefabs/Grid/enemyGridPrfabNoMovement.prefab.meta
+    - Assets/Prefabs/Grid/enemyGridPrfabTutorial.prefab
+    - Assets/Prefabs/Grid/enemyGridPrfabTutorial.prefab.meta
+    - Assets/Prefabs/Grid/enemySawPrefab.prefab
+    - Assets/Prefabs/Grid/enemySawPrefab.prefab.meta
+    - Assets/Prefabs/Grid/iso-tile.prefab
+    - Assets/Prefabs/Grid/iso-tile.prefab.meta
+    - Assets/Prefabs/Grid/iso-tile2.prefab
+    - Assets/Prefabs/Grid/iso-tile2.prefab.meta
+    - Assets/Prefabs/Grid/iso-tile3.prefab
+    - Assets/Prefabs/Grid/iso-tile3.prefab.meta
+    - Assets/Prefabs/HowToPlay.prefab
+    - Assets/Prefabs/HowToPlay.prefab.meta
+    - Assets/Prefabs/HowToPlayButton.prefab
+    - Assets/Prefabs/HowToPlayButton.prefab.meta
+    - Assets/Prefabs/MemberInfoUI.prefab
+    - Assets/Prefabs/MemberInfoUI.prefab.meta
+    - Assets/Prefabs/NewOptionsMenu .prefab
+    - Assets/Prefabs/NewOptionsMenu .prefab.meta
+    - Assets/Prefabs/OptionsMenu.prefab
+    - Assets/Prefabs/OptionsMenu.prefab.meta
+    - Assets/Prefabs/PauseMenu.prefab
+    - Assets/Prefabs/PauseMenu.prefab.meta
+    - Assets/Prefabs/ShopUI.meta
+    - Assets/Prefabs/ShopUI/AddNewCard.prefab
+    - Assets/Prefabs/ShopUI/AddNewCard.prefab.meta
+    - Assets/Prefabs/ShopUI/BuyCard.prefab
+    - Assets/Prefabs/ShopUI/BuyCard.prefab.meta
+    - Assets/Prefabs/ShopUI/BuyCharacter.prefab
+    - Assets/Prefabs/ShopUI/BuyCharacter.prefab.meta
+    - Assets/Prefabs/ShopUI/CardInspector.prefab
+    - Assets/Prefabs/ShopUI/CardInspector.prefab.meta
+    - Assets/Prefabs/ShopUI/CardSlot.prefab
+    - Assets/Prefabs/ShopUI/CardSlot.prefab.meta
+    - Assets/Prefabs/ShopUI/CardUI.prefab
+    - Assets/Prefabs/ShopUI/CardUI.prefab.meta
+    - Assets/Prefabs/ShopUI/CharacterCard.prefab
+    - Assets/Prefabs/ShopUI/CharacterCard.prefab.meta
+    - Assets/Prefabs/ShopUI/CharacterNameText.prefab
+    - Assets/Prefabs/ShopUI/CharacterNameText.prefab.meta
+    - Assets/Prefabs/ShopUI/DeckSwap.prefab
+    - Assets/Prefabs/ShopUI/DeckSwap.prefab.meta
+    - Assets/Prefabs/ShopUI/RemoveButton.prefab
+    - Assets/Prefabs/ShopUI/RemoveButton.prefab.meta
+    - Assets/Prefabs/ShopUI/ShopCard.prefab
+    - Assets/Prefabs/ShopUI/ShopCard.prefab.meta
+    - Assets/Prefabs/ShopUI/characterPlatform.prefab
+    - Assets/Prefabs/ShopUI/characterPlatform.prefab.meta
+    - Assets/Prefabs/ShopUI/downButton.prefab
+    - Assets/Prefabs/ShopUI/downButton.prefab.meta
+    - Assets/Prefabs/ShopUI/leftButton.prefab
+    - Assets/Prefabs/ShopUI/leftButton.prefab.meta
+    - Assets/Prefabs/TempText.prefab
+    - Assets/Prefabs/TempText.prefab.meta
+    - Assets/Prefabs/moneyText.prefab
+    - Assets/Prefabs/moneyText.prefab.meta
+    - Assets/Resources.meta
+    - Assets/Resources/Card Art.meta
+    - Assets/Resources/Card Art/Abbadon.png.meta
+    - Assets/Resources/Card Art/Absolute Zero.png.meta
+    - Assets/Resources/Card Art/Act Of Mercy.png.meta
+    - Assets/Resources/Card Art/Afterburn.png.meta
+    - Assets/Resources/Card Art/Aimed Shot.png.meta
+    - Assets/Resources/Card Art/Armor Up.png.meta
+    - Assets/Resources/Card Art/Avalanche.png.meta
+    - Assets/Resources/Card Art/Backstab.png.meta
+    - Assets/Resources/Card Art/Barrage.png.meta
+    - Assets/Resources/Card Art/Battle Rage.png.meta
+    - Assets/Resources/Card Art/Battle Wrench.png.meta
+    - Assets/Resources/Card Art/Blast Wave.png.meta
+    - Assets/Resources/Card Art/Blizzard.png.meta
+    - Assets/Resources/Card Art/Blunderbuss.png.meta
+    - Assets/Resources/Card Art/Bolster.png.meta
+    - Assets/Resources/Card Art/Bulwark.png.meta
+    - Assets/Resources/Card Art/Circle Of Life.png.meta
+    - Assets/Resources/Card Art/Consecration.png.meta
+    - Assets/Resources/Card Art/Counter-Strike.png.meta
+    - Assets/Resources/Card Art/Cryomancy.png.meta
+    - Assets/Resources/Card Art/Dash.png.meta
+    - Assets/Resources/Card Art/Defend.png.meta
+    - Assets/Resources/Card Art/Divinity.png.meta
+    - Assets/Resources/Card Art/Embiggen.png.meta
+    - Assets/Resources/Card Art/Embrace The Pain.png.meta
+    - Assets/Resources/Card Art/Evasion.png.meta
+    - Assets/Resources/Card Art/Faith's Shield.png.meta
+    - Assets/Resources/Card Art/Firebolt.png.meta
+    - Assets/Resources/Card Art/Firewall.png.meta
+    - Assets/Resources/Card Art/Flamethrower.png.meta
+    - Assets/Resources/Card Art/Flare.png.meta
+    - Assets/Resources/Card Art/Flintlock.png.meta
+    - Assets/Resources/Card Art/Freezing Wind.png.meta
+    - Assets/Resources/Card Art/Fury.png.meta
+    - Assets/Resources/Card Art/Gasoline.png.meta
+    - Assets/Resources/Card Art/Gattling Gun.png.meta
+    - Assets/Resources/Card Art/Germinate.png.meta
+    - Assets/Resources/Card Art/Glacier.png.meta
+    - Assets/Resources/Card Art/Hailstorm.png.meta
+    - Assets/Resources/Card Art/Headshot.png.meta
+    - Assets/Resources/Card Art/Healing Rain.png.meta
+    - Assets/Resources/Card Art/Healing Touch.png.meta
+    - Assets/Resources/Card Art/Hemomancy.png.meta
+    - Assets/Resources/Card Art/High Noon.png.meta
+    - Assets/Resources/Card Art/Hold The Front.png.meta
+    - Assets/Resources/Card Art/Hope.png.meta
+    - Assets/Resources/Card Art/Ice Block.png.meta
+    - Assets/Resources/Card Art/Ichor.png.meta
+    - Assets/Resources/Card Art/Inferno.png.meta
+    - Assets/Resources/Card Art/Inner Fire.png.meta
+    - Assets/Resources/Card Art/Invigorate.png.meta
+    - Assets/Resources/Card Art/Ironsights.png.meta
+    - Assets/Resources/Card Art/Judgement.png.meta
+    - Assets/Resources/Card Art/Laser Beam.png.meta
+    - Assets/Resources/Card Art/Medic.png.meta
+    - Assets/Resources/Card Art/Monkey Wrench.png.meta
+    - Assets/Resources/Card Art/Nature's Gift.png.meta
+    - Assets/Resources/Card Art/Neurotoxin.png.meta
+    - Assets/Resources/Card Art/Onslaught.png.meta
+    - Assets/Resources/Card Art/Overclock.png.meta
+    - Assets/Resources/Card Art/Permafrost.png.meta
+    - Assets/Resources/Card Art/Poison Sludge.png.meta
+    - Assets/Resources/Card Art/Prismatic.png.meta
+    - Assets/Resources/Card Art/Refresh.png.meta
+    - Assets/Resources/Card Art/Rejuvinate.png.meta
+    - Assets/Resources/Card Art/Resilience.png.meta
+    - Assets/Resources/Card Art/Salvation.png.meta
+    - Assets/Resources/Card Art/Scorch.png.meta
+    - Assets/Resources/Card Art/Sculk.png.meta
+    - Assets/Resources/Card Art/Shield Bash.png.meta
+    - Assets/Resources/Card Art/Siphon Soul.png.meta
+    - Assets/Resources/Card Art/Smokescreen.png.meta
+    - Assets/Resources/Card Art/Specialist.png.meta
+    - Assets/Resources/Card Art/Sprocket.png.meta
+    - Assets/Resources/Card Art/Stack Overflow.png.meta
+    - Assets/Resources/Card Art/Strike.png.meta
+    - Assets/Resources/Card Art/Strong Roots.png.meta
+    - Assets/Resources/Card Art/Surprise Round.png.meta
+    - Assets/Resources/Card Art/Thermokinesis.png.meta
+    - Assets/Resources/Card Art/Trick Shot.png.meta
+    - Assets/Resources/Card Art/Vampirism.png.meta
+    - Assets/Resources/Card Art/Venom Strike.png.meta
+    - Assets/Resources/Card Art/Warning Shot.png.meta
+    - Assets/Resources/Card Art/Watchover.png.meta
+    - Assets/Resources/Card Art/Wildfire.png.meta
+    - Assets/Resources/Card Art/tempart.png.meta
+    - Assets/Resources/Effects.meta
+    - Assets/Resources/Effects/BlastEffect.prefab
+    - Assets/Resources/Effects/BlastEffect.prefab.meta
+    - Assets/Resources/Effects/BlockEffect.prefab
+    - Assets/Resources/Effects/BlockEffect.prefab.meta
+    - Assets/Resources/Effects/BloodEffect.prefab
+    - Assets/Resources/Effects/BloodEffect.prefab.meta
+    - Assets/Resources/Effects/BulletEffect.prefab
+    - Assets/Resources/Effects/BulletEffect.prefab.meta
+    - Assets/Resources/Effects/CogsEffect.prefab
+    - Assets/Resources/Effects/CogsEffect.prefab.meta
+    - Assets/Resources/Effects/FireEffect.prefab
+    - Assets/Resources/Effects/FireEffect.prefab.meta
+    - Assets/Resources/Effects/FrostEffect.prefab
+    - Assets/Resources/Effects/FrostEffect.prefab.meta
+    - Assets/Resources/Effects/LightEffect.prefab
+    - Assets/Resources/Effects/LightEffect.prefab.meta
+    - Assets/Resources/Effects/MarkEffect.prefab
+    - Assets/Resources/Effects/MarkEffect.prefab.meta
+    - Assets/Resources/Effects/PowerEffect.prefab
+    - Assets/Resources/Effects/PowerEffect.prefab.meta
+    - Assets/Resources/Effects/PunchEffect.prefab
+    - Assets/Resources/Effects/PunchEffect.prefab.meta
+    - Assets/Resources/Effects/RadienceEffect.prefab
+    - Assets/Resources/Effects/RadienceEffect.prefab.meta
+    - Assets/Resources/Effects/RegenEffect.prefab
+    - Assets/Resources/Effects/RegenEffect.prefab.meta
+    - Assets/Resources/Effects/SlashEffect.prefab
+    - Assets/Resources/Effects/SlashEffect.prefab.meta
+    - Assets/Resources/Effects/SmokeEffect.prefab
+    - Assets/Resources/Effects/SmokeEffect.prefab.meta
+    - Assets/Resources/Effects/TauntEffect.prefab
+    - Assets/Resources/Effects/TauntEffect.prefab.meta
+    - Assets/Resources/Effects/ToxinEffect.prefab
+    - Assets/Resources/Effects/ToxinEffect.prefab.meta
+    - Assets/Resources/Starting Members.meta
+    - Assets/Resources/Starting Members/Apprentice.asset
+    - Assets/Resources/Starting Members/Apprentice.asset.meta
+    - Assets/Resources/Starting Members/Guardian.asset
+    - Assets/Resources/Starting Members/Guardian.asset.meta
+    - Assets/Resources/Starting Members/Oathkeeper.asset
+    - Assets/Resources/Starting Members/Oathkeeper.asset.meta
+    - Assets/Resources/Starting Members/Tutorial.asset
+    - Assets/Resources/Starting Members/Tutorial.asset.meta
+    - Assets/Resources/Starting Members/Witness.asset
+    - Assets/Resources/Starting Members/Witness.asset.meta
+    - Assets/Resources/Status Effect Icons.meta
+    - Assets/Resources/Status Effect Icons/armor.png.meta
+    - Assets/Resources/Status Effect Icons/burn.png.meta
+    - Assets/Resources/Status Effect Icons/frost.png.meta
+    - Assets/Resources/Status Effect Icons/haste.png.meta
+    - Assets/Resources/Status Effect Icons/mark.png.meta
+    - Assets/Resources/Status Effect Icons/power.png.meta
+    - Assets/Resources/Status Effect Icons/radiance.png.meta
+    - Assets/Resources/Status Effect Icons/regen.png.meta
+    - Assets/Resources/Status Effect Icons/taunt.png.meta
+    - Assets/Resources/Status Effect Icons/toxin.png.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Game Over.unity
+    - Assets/Scenes/Game Over.unity.meta
+    - Assets/Scenes/Main Menu.unity
+    - Assets/Scenes/Main Menu.unity.meta
+    - Assets/Scenes/Mission.unity
+    - Assets/Scenes/Mission.unity.meta
+    - Assets/Scenes/Prep.unity
+    - Assets/Scenes/Prep.unity.meta
+    - Assets/Scenes/Shop.unity
+    - Assets/Scenes/Shop.unity.meta
+    - Assets/Scenes/Win Screen.unity
+    - Assets/Scenes/Win Screen.unity.meta
+    - Assets/ScriptTemplates.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Action Functions.meta
+    - Assets/Scripts/Action Functions/Attack Functions.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaHarass.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaHarass.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaLunge.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaLunge.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaTorment.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AlphaGoblin/AlphaTorment.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AttackHand.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AttackHand/Flex.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AttackHand/InnovationBlast.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AttackHand/Slap.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AutomaticBoiler.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AutomaticBoiler/HotSteam.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AutomaticBoiler/PipeBurst.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/AutomaticBoiler/RedHot.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Bat.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Bat/Nip.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Bat/Swarm.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Bat/WingFlap.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersCure.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersCure.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersFire.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersFire.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersIce.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersIce.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersMelee.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersMelee.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersRange.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersRange.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersShadow.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersShadow.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersTech.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/CardificersTech.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/UltraHeal.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/UltraHeal.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Cardificer/equilibrium.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/DrillPunch.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/Eternity.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/FrostStrike.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/Snowduel.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/SweepingEdge.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Citidel/Watch.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DarkWizard.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DarkWizard/ShadowSwift.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DarkWizard/ToxicBrew.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DarkWizard/UmbraBurst.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DeathMachine.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DeathMachine/BarrelHeat.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DeathMachine/SupressiveFire.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DefendHand.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DefendHand/FingerWaggle.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DefendHand/HandWall.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/DefendHand/Restoration.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton/ColdSteel.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton/Indestructable.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton/Pulverize.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton/Shockwave.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/FirstAutomaton/Unstoppable.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/BurnEverything.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/BurnEverything.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/LeadingCommand.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/LeadingCommand.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/TargetingCommand.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Flamethrower/TargetingCommand.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/Bully.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/HackNSlash.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/Heal.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/Lunge.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/SwordNShield.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/Taunt.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Generic/Torment.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GenericGolem.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GenericGolem/Bash.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GenericGolem/Fortress.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GenericGolem/NaturalDefense.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GenericGolem/RockMace.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Goblin.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Goblin/Harass.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Goblin/Mudball.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinLeader.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinLeader/DwyeringItUp.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinLeader/DwyeringItUp.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinLeader/GoblinStrength.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinLeader/GoblinStrength.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinTank.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinTank/ReloadingTurret.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinTank/ReloadingTurret.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinTank/TurretFire.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/GoblinTank/TurretFire.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Hobgoblin.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Hobgoblin/CrushingBlow.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Hobgoblin/Poison.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/LightWizard.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/LightWizard/IrisRay.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/LightWizard/IrisRay.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/LightWizard/SolarHeal.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull/Ironclad.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull/SeeingRed.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull/Stampede.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull/TotalBreakdown.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalBull/YouGetTheHorns.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalNightmare.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalNightmare/Grind.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalNightmare/OverHeat.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalNightmare/Shamble.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/MechanicalNightmare/Tetanus.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Miner.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Miner/Burrow.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Miner/Demolition.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Miner/Entrench.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Orc.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Orc/BodyBlock.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Orc/BodySlam.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Outlaw.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Outlaw/CheapShot.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Outlaw/CoveringFire.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Outlaw/FullSteamAhead.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Outlaw/Overwatch.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Shaman.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Shaman/Battlecry.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Shaman/RainDance.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/BoneClub.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/BoneClub.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/RattlinBog.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/RattlinBog.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/Skelegen.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Skeleton/Skelegen.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen/Incubate.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen/Multiattack.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen/Spiderstrike.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen/Spiderweb.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/SpiderQueen/Succumb.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/ImDwyer.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/ImDwyer.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/PiercingLance.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/PiercingLance.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/RallyArmy.cs
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/StallionRider/RallyArmy.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/TheSnail.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/TheSnail/ImmaGetcha.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/TheSnail/Wait.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden/Decompose.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden/Decontaminate.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden/Photosynthesis.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden/Purify.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/Warden/Tackle.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter/BulletHell.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter/FullMetalJacket.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter/HighGround.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter/InMySights.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/Enemy Attacks/hunter/TakeCover.cs.meta
+    - Assets/Scripts/Action Functions/Attack Functions/EnemyAttack.cs.meta
+    - Assets/Scripts/Action Functions/AttackData.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions.meta
+    - Assets/Scripts/Action Functions/Card Functions/Card.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/CardDictionary.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Defend.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Afterburn.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/BlastWave.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Fireball.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Firewall.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Flamethrower.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Gasoline.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Inferno.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/InnerFire.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Scorch.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Fire/Wildfire.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/AbsoluteZero.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Avalanche.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Blizzard.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Cyromancy.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/FreezeTime.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/FreezingWind.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Glacier.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Hailstorm.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/IceBlock.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ice/Thermokinesis.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Iconic.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Iconic/Abbadon.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Iconic/GuardiansGift.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Iconic/OathkeeperPath.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Iconic/WitnessesWatch.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/ActOfMercy.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/Consecration.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/Divinity.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/FaithShield.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/HealingHands.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/Judgement.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/LaserBeam.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/Prismatic.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/RayOfHope.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Light/Salvation.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/ArmorUp.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/BattleRage.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/Bulwark.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/CounterStrike.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/EmbraceThePain.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/Fury.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/HoldTheFront.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/Invigorate.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/Resilience.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Melee/ShieldBash.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/CircleOfLife.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/Embiggen.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/HealingRain.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/LifeFindsAWay.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/NaturesGift.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/Neurotoxin.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/PoisonSludge.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/RedWoodBash.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/TreeOfLife.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Nature/VenomStrike.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/AimedShot.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Barrage.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Blunderbuss.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Flare.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Flintlock.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Headshot.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/HighNoon.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/Ironsights.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/VolleyShot.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Ranged/WarningShot.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Backstab.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/BuildMomentum.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Dash.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Hemomancy.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Ichor.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Sculk.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/SiphonSoul.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Smokescreen.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/SupriseRound.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Shadow/Vampire.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Strike.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/BattleWrench.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Bolster.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Experiment.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/GattlingGun.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Medic.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/MonkeyWrench.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Overclock.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Specialist.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/Sprocket.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Cards/Tech/StackOverflow.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/Deck.cs.meta
+    - Assets/Scripts/Action Functions/Card Functions/DisplayCard.cs.meta
+    - Assets/Scripts/Action Functions/StatusEffect.cs.meta
+    - Assets/Scripts/Audio Functions.meta
+    - Assets/Scripts/Audio Functions/MainMenuAudioSourceBehaviour.cs.meta
+    - Assets/Scripts/Audio Functions/ShopAudioSourceBehaviour.cs.meta
+    - Assets/Scripts/GameManager.cs
+    - Assets/Scripts/GameManager.cs.meta
+    - Assets/Scripts/Grid Functions.meta
+    - Assets/Scripts/Grid Functions/EnemyGridMovement.cs.meta
+    - Assets/Scripts/Grid Functions/GridMovement.cs.meta
+    - Assets/Scripts/Grid Functions/HugWallMovement.cs.meta
+    - Assets/Scripts/Grid Functions/IsoGridGenerator.cs.meta
+    - Assets/Scripts/Grid Functions/NoMovement.cs
+    - Assets/Scripts/Grid Functions/NoMovement.cs.meta
+    - Assets/Scripts/Grid Functions/PlayerGridControl.cs.meta
+    - Assets/Scripts/Grid Functions/TileBehaviour.cs.meta
+    - Assets/Scripts/Grid Functions/WanderMovement.cs.meta
+    - Assets/Scripts/Party Functions.meta
+    - Assets/Scripts/Party Functions/BattleBackground.cs
+    - Assets/Scripts/Party Functions/BattleBackground.cs.meta
+    - Assets/Scripts/Party Functions/BattleManager.cs.meta
+    - Assets/Scripts/Party Functions/Character.cs.meta
+    - Assets/Scripts/Party Functions/CharacterBehaviour.cs.meta
+    - Assets/Scripts/Party Functions/Characters.meta
+    - Assets/Scripts/Party Functions/Characters/Axeman.asset
+    - Assets/Scripts/Party Functions/Characters/Axeman.asset.meta
+    - Assets/Scripts/Party Functions/Characters/Stabman.asset
+    - Assets/Scripts/Party Functions/Characters/Stabman.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Bosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Bosses/Hunter.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Bosses/Hunter.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Bosses/Warden.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Bosses/Warden.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Berserker.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Berserker.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Outlaw.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Outlaw.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Shaman.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Shaman.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Thief.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/Enemies/Thief.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/MiniBosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/MiniBosses/FirstAutomaton.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/MiniBosses/FirstAutomaton.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/MiniBosses/Goblin Giant.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 1/MiniBosses/Goblin Giant.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/CitadelB.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/CitadelB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/SpiderQueen.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/SpiderQueen.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/Witness1B.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/Witness1B.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/Witness2B.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Bosses/Witness2B.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Bat.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Bat.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Miner.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Miner.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Rock Golem.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Rock Golem.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Skeleton.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/Skeleton.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/The Snail.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/Enemies/The Snail.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/MiniBosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/MiniBosses/GoblinMech.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/MiniBosses/GoblinMech.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/MiniBosses/GolemMama.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 2/MiniBosses/GolemMama.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/AlphaGoblin.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/AlphaGoblin.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/GoblinLeader.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/GoblinLeader.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/MechanicalBull.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Bosses/MechanicalBull.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/AutomaticBoiler.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/AutomaticBoiler.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/DarkMage.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/DarkMage.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/DeathMachine.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/DeathMachine.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/GoblinTank.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/GoblinTank.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/LightMage.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/LightMage.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/MechanicalNightMare.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/Enemies/MechanicalNightMare.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/MiniBosses.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/MiniBosses/Flamethrower.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/MiniBosses/Flamethrower.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/MiniBosses/StallionRider.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Act 3/MiniBosses/StallionRider.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Cardificer.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Cardificer.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Left Hand.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Left Hand.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Right Hand.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/Final Boss/Right Hand.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Archetypes/TutorialOutlaw.asset
+    - Assets/Scripts/Party Functions/Enemy Archetypes/TutorialOutlaw.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/FirstAutomaton MB.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/FirstAutomaton MB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/GiantGoblinMB.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/GiantGoblinMB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/GoblinClan.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/GoblinClan.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/Hunter B.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/Hunter B.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/OutlawGang.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/OutlawGang.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/TheWarden B.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/TheWarden B.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/ThiefClan.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act1/ThiefClan.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/BatArmy.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/BatArmy.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/CaveEnemies.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/CaveEnemies.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/Citadel.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/Citadel.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/GoblinMechMB.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/GoblinMechMB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/GolemMamaMB.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/GolemMamaMB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/MinerParty.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/MinerParty.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SkeletonParty.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SkeletonParty.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SnailWSkeletons.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SnailWSkeletons.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SpiderQueenB.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act2/SpiderQueenB.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Act3Guys.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Act3Guys.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Boiler.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Boiler.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Bull.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Bull.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Flamethrower.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Flamethrower.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/GoblinLeader.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/GoblinLeader.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Mages.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Mages.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Saw.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Saw.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Stallions.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Stallions.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Tanks.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Act3/Tanks.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/Cardificer.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/Cardificer.asset.meta
+    - Assets/Scripts/Party Functions/Enemy Parties/TutorialParty.asset
+    - Assets/Scripts/Party Functions/Enemy Parties/TutorialParty.asset.meta
+    - Assets/Scripts/Party Functions/EnemyArchetype.cs.meta
+    - Assets/Scripts/Party Functions/EnemyParty.cs.meta
+    - Assets/Scripts/Party Functions/Party.cs.meta
+    - Assets/Scripts/PauseMenu Functions.meta
+    - Assets/Scripts/PauseMenu Functions/MenuOptionsButtonBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/MenuResumeButtonBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/MainMenuVolumeBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/OptionsExitButtonBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/TutorialMenu.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/TutorialMenu/BackButtonFunctionBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/TutorialMenu/HowToPlayButtonBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/TutorialMenu/TutorialStarButtonBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionMenu Functions/VolumeSliderBehaviour.cs.meta
+    - Assets/Scripts/PauseMenu Functions/OptionsMenu.prefab
+    - Assets/Scripts/PauseMenu Functions/OptionsMenu.prefab.meta
+    - Assets/Scripts/ResetRunValues.cs
+    - Assets/Scripts/ResetRunValues.cs.meta
+    - Assets/Scripts/Tools.cs.meta
+    - Assets/Scripts/Tutorial.meta
+    - Assets/Scripts/Tutorial/BattleTutorial.cs
+    - Assets/Scripts/Tutorial/BattleTutorial.cs.meta
+    - Assets/Scripts/Tutorial/GridTutorial.cs
+    - Assets/Scripts/Tutorial/GridTutorial.cs.meta
+    - Assets/Scripts/UI Functions.meta
+    - Assets/Scripts/UI Functions/ActUIBehaviour.cs
+    - Assets/Scripts/UI Functions/ActUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/ActionUI.cs.meta
+    - Assets/Scripts/UI Functions/AddNewCardUI.cs.meta
+    - Assets/Scripts/UI Functions/AttackUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/BlockUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/BuyCardUI.cs.meta
+    - Assets/Scripts/UI Functions/BuyCharacter.cs.meta
+    - Assets/Scripts/UI Functions/CardInspectorUI.cs.meta
+    - Assets/Scripts/UI Functions/CardUI.cs.meta
+    - Assets/Scripts/UI Functions/CharacterCard.cs.meta
+    - Assets/Scripts/UI Functions/CustomCharacterDisplay.cs.meta
+    - Assets/Scripts/UI Functions/FloatingText.cs.meta
+    - Assets/Scripts/UI Functions/FloorUIBehaviour.cs
+    - Assets/Scripts/UI Functions/FloorUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/GameOverBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/GridMemberUI.cs.meta
+    - Assets/Scripts/UI Functions/HealthbarUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/MenuButtonBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/MoneyUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/ShopCharCard.cs.meta
+    - Assets/Scripts/UI Functions/ShopCharacterUI.cs.meta
+    - Assets/Scripts/UI Functions/ShopManager.cs.meta
+    - Assets/Scripts/UI Functions/SlotUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/SolutionForDeckSwap.cs.meta
+    - Assets/Scripts/UI Functions/StatusEffectUIBehaviour.cs.meta
+    - Assets/Scripts/UI Functions/TransitionManager.cs.meta
+    - Assets/Scripts/UI Functions/UpdateCardUI.cs.meta
+    - Assets/Sounds.meta
+    - Assets/Sounds/Music.meta
+    - Assets/Sounds/Music/Act3BattleTheme(unused).mp3.meta
+    - Assets/Sounds/Music/CardificerBattleTheme.mp3.meta
+    - Assets/Sounds/Music/Main MenuLoopVer.mp3.meta
+    - Assets/Sounds/Music/PlaceHolderOverworldTheme_ButItShouldBeLessAnnoying.mp3.meta
+    - Assets/Sounds/Music/PlaceholderBattleTheme.mp3.meta
+    - Assets/Sounds/Music/PlaceholderOverworldTheme.mp3.meta
+    - Assets/Sounds/Music/ShopTheme.mp3.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/Cardificers_Foundry_LogoSizeLarge 1.png.meta
+    - Assets/Sprites/Cardificers_Foundry_LogoSizeLarge.png.meta
+    - Assets/Sprites/Characters.meta
+    - Assets/Sprites/Characters/Arm.png.meta
+    - Assets/Sprites/Characters/Cardificer.png.meta
+    - Assets/Sprites/Characters/CardificerPhase2.png.meta
+    - Assets/Sprites/Characters/CharacterGen.meta
+    - Assets/Sprites/Characters/CharacterGen/body.meta
+    - Assets/Sprites/Characters/CharacterGen/body/apprentice_body.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_fire.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_ice.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_light.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_melee.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_nature.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_ranged.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_shadow.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/body_tech.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/dwyer.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/guardian_body.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/jason.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/oathkeeper_body.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/tylerl.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/will.png.meta
+    - Assets/Sprites/Characters/CharacterGen/body/witness_body.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/apprentice_hat.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/guardian_hat.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_fire.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_ice.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_light.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_melee.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_nature.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_ranged.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_shadow.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/hat_tech.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/oathkeeper_hat.png.meta
+    - Assets/Sprites/Characters/CharacterGen/hat/witness_hat.png.meta
+    - Assets/Sprites/Characters/CharacterGen/head.png.meta
+    - Assets/Sprites/Characters/MechanicalBull.png.meta
+    - Assets/Sprites/Characters/TheCitadel.png.meta
+    - Assets/Sprites/Characters/TheWitness1.png.meta
+    - Assets/Sprites/Characters/TheWitness2.png.meta
+    - Assets/Sprites/Characters/alphaGoblin.png.meta
+    - Assets/Sprites/Characters/autoBoiler.png.meta
+    - Assets/Sprites/Characters/barbarian.png.meta
+    - Assets/Sprites/Characters/bat.png.meta
+    - Assets/Sprites/Characters/darkmage.png.meta
+    - Assets/Sprites/Characters/deathmachine.png.meta
+    - Assets/Sprites/Characters/firstAutomataton.png.meta
+    - Assets/Sprites/Characters/flamethrowerguy.png.meta
+    - Assets/Sprites/Characters/frostfighter.png.meta
+    - Assets/Sprites/Characters/genericCharacter.png.meta
+    - Assets/Sprites/Characters/goblin.png.meta
+    - Assets/Sprites/Characters/goblinGiant.png.meta
+    - Assets/Sprites/Characters/goblinMech.png.meta
+    - Assets/Sprites/Characters/goblinShaman.png.meta
+    - Assets/Sprites/Characters/goblinTank.png.meta
+    - Assets/Sprites/Characters/golem.png.meta
+    - Assets/Sprites/Characters/golemMama.png.meta
+    - Assets/Sprites/Characters/gunslinger.png.meta
+    - Assets/Sprites/Characters/hunter.png.meta
+    - Assets/Sprites/Characters/lightmage.png.meta
+    - Assets/Sprites/Characters/mechNightmare.png.meta
+    - Assets/Sprites/Characters/minerGoblin.png.meta
+    - Assets/Sprites/Characters/orc.png.meta
+    - Assets/Sprites/Characters/rogue.png.meta
+    - Assets/Sprites/Characters/skeleton.png.meta
+    - Assets/Sprites/Characters/snail.png.meta
+    - Assets/Sprites/Characters/spiderQueen.png.meta
+    - Assets/Sprites/Characters/stallionRider.png.meta
+    - Assets/Sprites/Characters/warden.png.meta
+    - Assets/Sprites/HowToPlay.meta
+    - Assets/Sprites/HowToPlay/Cardificer'sFoundry_2.jpg.meta
+    - Assets/Sprites/HowToPlay/Cardificer'sFoundry_3.jpg.meta
+    - Assets/Sprites/HowToPlay/Screen Shot 2021-12-06 at 2.20.57 AM (2).png.meta
+    - Assets/Sprites/HowToPlay/Screen Shot 2021-12-06 at 2.21.15 AM (2).png.meta
+    - Assets/Sprites/Sprite-0001 1.png.meta
+    - Assets/Sprites/Sprite-0001-export 1-export.png.meta
+    - Assets/Sprites/Sprite-0001-export 2.png.meta
+    - Assets/Sprites/Sprite-0001.png.meta
+    - Assets/Sprites/UI.meta
+    - Assets/Sprites/UI/Dwyer's UI.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/FireIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/IceIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/LightIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/MeleeIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/NatureIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/PoisonIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/RangedIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/ShadowIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Emblems/TechIcon.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Sprite-0001.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/Tutorial_arrow.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/board.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/board1.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/board2.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/boardlmao.png.meta
+    - Assets/Sprites/UI/Dwyer's UI/chain.png.meta
+    - Assets/Sprites/UI/Icons.meta
+    - Assets/Sprites/UI/Icons/attack.png.meta
+    - Assets/Sprites/UI/Icons/block broken.png.meta
+    - Assets/Sprites/UI/Icons/buff.png.meta
+    - Assets/Sprites/UI/Icons/debuff.png.meta
+    - Assets/Sprites/UI/Icons/target.png.meta
+    - Assets/Sprites/UI/Platforms.meta
+    - Assets/Sprites/UI/Platforms/battle platform s ot g.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform s ot.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform s.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform s2.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform s3.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sg2.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sg3.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sgr2.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sgry3.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sw2.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sw3.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sy2.png.meta
+    - Assets/Sprites/UI/Platforms/battle platform sy3.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile-gold.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile-lever-flip.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile-lever.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile-s.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile-spike.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile2.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile2fire.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile2fireactive.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile2firewarn.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3fire.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3fireactive.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3firewarn.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3gold.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3lever.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3leverflip.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tile3trap.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tilegold2.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tilelever2.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tileleverflip2.png.meta
+    - Assets/Sprites/UI/Platforms/iso-tiletrap2.png.meta
+    - Assets/Sprites/UI/Platforms/platform s ot grey.png.meta
+    - Assets/Sprites/UI/Platforms/platform s ot y.png.meta
+    - Assets/Sprites/UI/Platforms/saw-trap.png.meta
+    - Assets/Sprites/UI/Tyler's UI.meta
+    - Assets/Sprites/UI/Tyler's UI/bronzeborder.png.meta
+    - Assets/Sprites/UI/Tyler's UI/bronzeslot.png.meta
+    - Assets/Sprites/UI/Tyler's UI/cardframe.png.meta
+    - Assets/Sprites/UI/Tyler's UI/goldBorder.png.meta
+    - Assets/Sprites/UI/Tyler's UI/goldslot.png.meta
+    - Assets/Sprites/UI/Tyler's UI/silverborder.png.meta
+    - Assets/Sprites/UI/Tyler's UI/silverslot.png.meta
+    - Assets/Sprites/UI/card.png.meta
+    - Assets/Sprites/UI/cardfields.png.meta
+    - Assets/Sprites/UI/placeholder.png.meta
+    - Assets/Sprites/bruhAH.png.meta
+    - Assets/Sprites/bullethole.png.meta
+    - Assets/Sprites/cog.png.meta
+    - Assets/Sprites/drip.png.meta
+    - Assets/Sprites/firebro.png.meta
+    - Assets/Sprites/flame.png.meta
+    - Assets/Sprites/punch.png.meta
+    - Assets/Sprites/smoke.png.meta
+    - Assets/Sprites/tefregrsdround 2.png.meta
+    - Assets/Sprites/tempbackgroundart.png.meta
+    - Assets/Sprites/tempbackgroundartmission.png.meta
+    - Assets/Sprites/temptavernbackground.png.meta
+    - Assets/Untitlea45wyd-1.png.meta
+    - Assets/Untitled-1.jpg.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VersionControlSettings.asset
     - 
-    m_Values: 01
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
